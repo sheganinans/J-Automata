@@ -1,4 +1,6 @@
-An implementation of the 8-neighbor 2D cellular automata that can accept an arbitrary binary ruleset. Written in 3 lines of J. The magic happens on lines 7-9, all the rest is mostly user interaction.
+An implementation of the 8-neighbor 2D cellular automata that can accept an arbitrary binary ruleset. Written in 3 lines of J.
+
+The magic happens on lines 7-9, all the rest is mostly user interaction.
 
 Open it in the J console.
 
