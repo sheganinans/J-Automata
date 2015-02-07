@@ -15,3 +15,7 @@ To read the array from the file without running though the script, type 'binarr 
 To create your own starting position, use this format inside the console  'Y Y $ X X X X X X X X X X X X X' Y's being the size of the array, and X's being the individual bits, and the $ being the 'shape of' operator. When you are satisfied with the configuration assign it to a varible 'Variable =: Y Y $ X X X X X' and then write it to the file, 'arrbin Variable fwrite File'. arrbin is the function to make it suitable to write the array to file (you can see its output by only calling 'arrbin Variable'), fwrite is a funtion that take the left side of it and writes it to the right side, which is the File, which has been preassigned it's name inside the script already (open the console by right clicking the file, makes thing so much easier).
 
 Developed for Windows, completely untested on anything else.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/sheganinans/j-automata/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
